@@ -1,2 +1,2 @@
 # gadenbuie.github.io
-pkg.garrickadenbuie.com
+<pkg.garrickadenbuie.com>
